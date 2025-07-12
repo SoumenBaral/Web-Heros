@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(110,110,110) ;
+}
+
+
+h3{
+    text-align: center;
+    font-family: 'Times New Roman';
+}
+#name {
+    font-size: 30px;
+    color: blue;
+}
+#para1{
+    font-weight: bold;
+    color: aqua;
+    font-size: 30px;
+}
+.paras{
+    font-size: x-small;
+    color: blueviolet;
+    background-color: blanchedalmond;
+}

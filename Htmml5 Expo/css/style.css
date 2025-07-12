@@ -1,0 +1,38 @@
+*{
+    margin-top: 0;
+}
+label{
+    display: block;
+    margin-bottom: 20px;
+}
+header{
+    background-color: antiquewhite;
+    padding: 20px;
+    height: 25px;
+    margin-left: 0px;
+    padding-left: 0px;
+    width: 100%;
+}
+   
+nav ul{
+    display: flex;
+    justify-content: right;
+   
+}
+nav li:hover{
+    background-color: lightgrey;
+    color: orange;
+    border-radius: 30px;
+}
+nav li a:hover{
+    color: rgb(55, 18, 202);
+}
+nav li{
+    list-style: none;
+    margin-right: 30px;
+    padding: 10px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: black;
+}
